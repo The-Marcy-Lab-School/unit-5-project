@@ -11,16 +11,13 @@ Your assignment is to build a game. Though, there are general guidelines and che
 
 ## Project Ideas
 Your first task is to choose the game that you'd like to build. I will provide you with guidance on the scope/feasibility of your project to help ensure that you choose a game that you can reasonably complete within a week. For guidance consider games within these three categories, in order of difficulty:
-  1. Card Games ([example](https://htmlpreview.github.io/?https://github.com/brianmccln/Blackjack-JS-OOP-App/blob/master/blackjack.html))
-  2. Clicking/Static Games ([example](http://kanyesmatch.com/))
+  1. Clicking/Static Games ([example](https://react-connect-four-ann-duong.herokuapp.com/))
+  2. Card Games ([example](https://htmlpreview.github.io/?https://github.com/brianmccln/Blackjack-JS-OOP-App/blob/master/blackjack.html))
   3. Platform Games([example 1](http://mathildemouw.github.io/Object-Oriented-JS-Snake/), [example 2](https://rubychi.github.io/eloquentjs-a-platform-game/))
 
 ## Using Your Resources
 For this project, you are to lean into your _autodidacticism_. In order to complete this project at a satisfactory level, you _will_ have to do some self-learning. This is by design. By pulling from blog articles, YouTube tutorials, and examples on GitHub, you will be able to build whatever you put your mind to.
 
-## Grading
-### Scoring
-Your submission will be scored against the following criteria:
 
 #### Game Play:
 * **Does your game work?**
@@ -35,15 +32,3 @@ Your submission will be scored against the following criteria:
 * Are your variables and functions well named?
 * Is your code well commented?
 * Did you pull in an external library or framework to improve the UI or gameplay of your game?
-
-## Project Groups
-| Partner 1 | Partner 2 |
-|-----------|-----------|
-| Anne | Devonte |
-| Mark | Peter   |
-| Laisha | Enmanuel |
-| Carms | Steph |
-| Paul | Cielo |
-
-## Due Date
-Monday, February 3 at 9AM
