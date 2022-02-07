@@ -28,7 +28,7 @@ For this project, you are to lean into your _autodidacticism_. In order to compl
 * Does your game respond predictably to user input?
 
 #### Code Quality:
-* Is your game logic encapsulated into classes?
+* Is your game logic encapsulated into functions or classes?
 * Are your variables and functions well named?
 * Is your code well commented?
 * Did you pull in an external library or framework to improve the UI or gameplay of your game?
