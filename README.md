@@ -18,7 +18,6 @@ Your first task is to choose the game that you'd like to build. I will provide y
 ## Using Your Resources
 For this project, you are to lean into your _autodidacticism_. In order to complete this project at a satisfactory level, you _will_ have to do some self-learning. This is by design. By pulling from blog articles, YouTube tutorials, and examples on GitHub, you will be able to build whatever you put your mind to.
 
-
 #### Game Play:
 * **Does your game work?**
 * Is your game intuitive to play?
@@ -32,3 +31,17 @@ For this project, you are to lean into your _autodidacticism_. In order to compl
 * Are your variables and functions well named?
 * Is your code well commented?
 * Did you pull in an external library or framework to improve the UI or gameplay of your game?
+
+## Deliverables
+- [Proposal & Wireframe](./proposal-wireframe-instructions.md)
+- [Github Projects Scrumboard](./scrumboard-instructions.md)
+- [Project Presentations](./project-presentation-instructions.md)
+- [Project is Deployed](./project-deployment-instructions.md)
+
+## Resources
+
+**UI Libraries/Frameworks**
+
+* [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+* [Phaser](https://phaser.io/)
+* [Kaboom](https://kaboomjs.com/)
