@@ -6,20 +6,26 @@ To give you inspiration, [here is an example for a simple Bouncing Box game](htt
 
 ## Proposal
 
-Your proposal must include four sections with further details below: 
-1. User story / gameplay
+Your proposal must include these sections with further details below: 
+1. Team name
+    - In addition, list of all group members' names as well as who is the project manager
+2. User story / gameplay
     - Describe the gameplay
     - What are the conditions when the game begins?
     - Does the game have an end? If so, what are the conditions for when it ends?
-2. A description of the visual game components 
+3. A description of the visual game components 
     - What are the visual game components? Which are static and which are animated?
-3. The major data values used in the game
+4. The major data values used in the game
     - What data will you need to track for each game component?
     - What data will you need to track for the entire game?
-4. High level descriptions of the user events and timer logic 
+5. High level descriptions of the user events and timer logic 
     - What events will occur in this game? (timer events, keyboard events, clicking events?)
     - How do those events affect the data of the program?
     - For each "event", write out the high-level logic of what will happen. It is better (and tricky) to be as specific as you can while remaining high-level!
+6. A list of advanced features
+    - What features will your group build out once you complete your main user stories and core game play?
+7. (Optional) External libraries
+    - Is you group using a JS library? If so, which one?
 
 ## Wire Frame
 
