@@ -8,7 +8,7 @@ To give you inspiration, [here is an example for a simple Bouncing Box game](htt
 
 Your proposal must include these sections with further details below: 
 1. Team name
-    - In addition, list of all group members' names as well as who is the project manager
+    - In addition, list all group members' names as well as who is the project manager
 2. User story / gameplay
     - Describe the gameplay
     - What are the conditions when the game begins?
