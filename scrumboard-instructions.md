@@ -3,11 +3,7 @@
 You will be using Github Projects to organize and manage your workflow. You can follow the instructions below to get started!
 
 **Set up Github Organization**
-* Click on your Profile logo dropdown menu and select <kbd>Your organizations</kbd>
-
-![](img/organizations.png)
-
-* Select <kbd>New organization</kbd>
+* In the top right corner, find the <kbd>+</kbd> icon and select <kbd>New organization</kbd>
 * Select <kbd>Create a free organization</kbd>
 * Name the organization with an approved team name
 * One team-member will enter their email and will make the organization on their personal account.
