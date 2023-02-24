@@ -38,3 +38,17 @@ You will be using Github Projects to organize and manage your workflow. You can 
 
   * [Optional] Add a description and a README
   * Change the visibility to **Public**
+
+
+## Tips for Using a Scrum Board
+* **Get the size of the task right. Aim for a single function's worth of work.** Consider these examples for Pong:
+   * Too big: _Implement scoring_
+      * Why? Implementing scoring is too vague! Scoring involves checking the DOM to see if the ball has left the screen, updating the scoring data, rendering it to the screen, and checking if the score triggers the end of the game. We can be more specific.
+   * Too small: _Declare a `score` variable_
+      * Why? declaring a single variable may be just one step towards writing a function to handle scoring.
+   * Just right: _Keep track of scoring data each time the ball leaves the screen_ 
+      * Why? This task is very specific and it focuses on a particular interaction between the DOM and the program's data. We might have a separate task for rendering the data to the screen and another for ending the game at a particular score threshold.
+* **Proactively update the scrum board:**
+   * Assign yourself to a task that you want to tackle and immediately move it to _In Progress_. This will prevent your team from doing duplicate work by showing ownership of tasks and will result in more autonomous work.
+   * Remember to move tasks to _Done_. Not only will it let your teammates know that a feature is complete, it will also _feel_ really good to make that progress!
+   * Consider coming up with a team ritual for completing tasks. Maybe you have some slack message or emoji that you all send and you can breifly have a congratulatory moment! This is not just for team-building, it will also keep your teammates up-to-date on the state of the program.
