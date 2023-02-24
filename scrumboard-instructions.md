@@ -1,8 +1,14 @@
 # Creating a Github Projects Scrumboard
 
+**Table of Contents:**
+- [Set up Github Organization](#set-up-github-organization)
+- [Create an organization repository](#create-an-organization-repository)
+- [Create a project board for the repository](#create-a-project-board-for-the-repository)
+- [Tips for Using a Scrum Board](#Tips-for-Using-a-Scrum-Board)
+
 You will be using Github Projects to organize and manage your workflow. You can follow the instructions below to get started!
 
-**Set up Github Organization**
+## Set up Github Organization
 * Sign into Github
 * In the top right corner, find the <kbd>+</kbd> icon and select <kbd>New organization</kbd>
 * Select <kbd>Create a free organization</kbd>
@@ -10,7 +16,7 @@ You will be using Github Projects to organize and manage your workflow. You can 
 * One team-member will enter their email and will make the organization on their personal account.
 * Add all teammates to the organization
 
-**Create an organization repository**
+## Create an organization repository
 * From the organization overview page, click on the <kbd>Repositories</kbd> tab.
 
 ![](img/new-org-repo.png)
@@ -21,7 +27,7 @@ You will be using Github Projects to organize and manage your workflow. You can 
 * Add a **README**
 * Choose the **MIT License** 
 
-**Create a project board for the repository**
+## Create a project board for the repository
 * From the repository homepage, click on the <kbd>Projects</kbd> tab.
 
 ![](img/repo-projects.png)
