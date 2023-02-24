@@ -53,3 +53,12 @@ You will be using Github Projects to organize and manage your workflow. You can 
    * Assign yourself to a task that you want to tackle and immediately move it to _In Progress_. This will prevent your team from doing duplicate work by showing ownership of tasks and will result in more autonomous work.
    * Remember to move tasks to _Done_. Not only will it let your teammates know that a feature is complete, it will also _feel_ really good to make that progress!
    * Consider coming up with a team ritual for completing tasks. Maybe you have some slack message or emoji that you all send and you can breifly have a congratulatory moment! This is not just for team-building, it will also keep your teammates up-to-date on the state of the program.
+* **Prioritize minimum-viable-product features first**. For Pong, the prioritization might look like
+   * Render two paddles and a ball to the screen in correct starting positions
+   * Control the paddles with keyboard inputs
+   * Move the ball on each new frame
+   * Detect collisions between the ball and the paddles
+   * Bounce the ball off the top and bottom walls
+   * Add scoring when the ball goes past the paddles
+   * Implement a restart feature
+   * Implement bonus features (AI mode, leaderboards, etc...)
